@@ -1,0 +1,22 @@
+html,
+body{
+    font-family: "Roboto", sans-serif;
+    display: flex;
+    height: 100%;
+    background-color: white;
+}
+
+header{
+    background-color: #343434;
+    display: flex;
+}
+
+
+li.secondary-nav-bar {
+    float: right;
+}
+
+a.secondary-nav-bar {
+    display: block;
+}
+
